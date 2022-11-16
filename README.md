@@ -2,7 +2,7 @@
 
 This project was developed using the following technologies:
 
-- [ReactJs](https://reactjs.org/)
+- [ReactJS](https://reactjs.org/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)
 
 ## 🚀 Getting started
